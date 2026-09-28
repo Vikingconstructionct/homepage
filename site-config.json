@@ -1,0 +1,222 @@
+{
+  "businessName": "Viking Gutter Cleaning",
+  "brandMark": "VG",
+  "phoneDisplay": "(203) 979-4724",
+  "phoneHref": "+12039794724",
+  "email": "service@vikingconstructionct.com",
+  "headerEyebrow": "Professional gutter services throughout Connecticut",
+  "headerCtaText": "Request an Estimate",
+  "serviceAreaShort": "Fairfield County and surrounding areas",
+  "serviceAreaLong": "Viking Gutter Cleaning provides professional gutter cleaning, repairs, gutter guard installation, and complete gutter installation for homeowners throughout our Connecticut service area.",
+  "metaDescription": "Viking Gutter Cleaning provides full gutter services including cleaning, repairs, gutter guards, and complete gutter installation for homeowners in Fairfield County and surrounding areas.",
+  "heroEyebrow": "Full gutter services",
+  "heroHeadline": "Gutter cleaning, repairs & installation in Fairfield County.",
+  "heroText": "From clogged downspouts to new gutters, get practical advice and the right fix for your home.",
+  "heroPrimaryCta": "Request an Estimate",
+  "heroSecondaryCta": "Call (203) 979-4724",
+  "heroSecondaryHref": "tel:+12039794724",
+  "heroPoints": [
+    "Cleaning, Repairs, Guards & Installation",
+    "Licensed & Insured in Connecticut",
+    "One Call for Complete Gutter Service"
+  ],
+  "proofItems": [
+    {
+      "label": "Connecticut Contractor",
+      "value": "HIC# 0700027"
+    },
+    {
+      "label": "Services",
+      "value": "Cleaning \u2022 Repair \u2022 Install \u2022 Guards"
+    },
+    {
+      "label": "Call Today",
+      "value": "(203) 979-4724"
+    }
+  ],
+  "servicesHeadingEyebrow": "Services",
+  "servicesHeadingTitle": "Whatever your gutters need.",
+  "services": [
+    {
+      "title": "Gutter Cleaning",
+      "text": "Remove leaves, debris, and buildup that can cause overflowing gutters and clogged downspouts. We will get the system flowing properly and can identify problems that may need attention."
+    },
+    {
+      "title": "Gutter Repairs",
+      "text": "Leaks, loose gutters, damaged sections, improper pitch, failing seams, and drainage problems do not always require full replacement. We will evaluate the issue and repair the existing system when practical."
+    },
+    {
+      "title": "Gutter Installation",
+      "text": "When it is time for new gutters, Viking provides complete gutter installation designed to properly collect and move water away from your home."
+    },
+    {
+      "title": "Gutter Guards",
+      "text": "Reduce debris buildup and routine maintenance with professionally installed gutter protection. We will help determine whether gutter guards are a good fit for your home and existing gutter system."
+    }
+  ],
+  "trustEyebrow": "Why homeowners choose Viking",
+  "trustHeading": "Full-service gutter work without pushing replacement when a repair will do.",
+  "trustPoints": [
+    "One company for cleaning, repairs, gutter guards, and installation.",
+    "Licensed and insured Connecticut home improvement contractor.",
+    "Existing gutters are evaluated before unnecessary replacement is recommended.",
+    "Straightforward recommendations based on what the gutter system actually needs.",
+    "Local service with direct communication at (203) 979-4724."
+  ],
+  "processEyebrow": "How service works",
+  "processHeading": "Start with the condition of the system, then recommend the right fix.",
+  "processSteps": [
+    "Request an estimate and describe what is going on with the gutters.",
+    "Viking evaluates the system for cleaning, repair, guard, downspout, or replacement needs.",
+    "Get straightforward recommendations based on the actual condition of the gutters.",
+    "Schedule the right next step, from maintenance to full installation."
+  ],
+  "galleryEyebrow": "Recent work",
+  "galleryHeading": "A closer look at our work.",
+  "gallery": [
+    {
+      "src": "./assets/viking/yard-sign.jpg",
+      "alt": "Viking Gutter Cleaning yard sign in front of a home in Stamford, Connecticut.",
+      "caption": "Yard sign and house photo showing the brand in a real residential setting."
+    },
+    {
+      "src": "./assets/viking/clean-soffit-line.jpg",
+      "alt": "Clean gutter and soffit line on a brick-front home after service.",
+      "caption": "Finished clean line on a residential home after service work."
+    },
+    {
+      "src": "./assets/viking/winter-elevation-job.jpg",
+      "alt": "Winter ladder setup at a tall residential property serviced by Viking Gutter Cleaning.",
+      "caption": "Cold-weather job-site example showing work on a taller elevation."
+    },
+    {
+      "src": "./assets/viking/roofline-clean.jpg",
+      "alt": "Clean roofline and gutter edge at a residential property serviced by Viking Gutter Cleaning.",
+      "caption": "Clean roofline detail from a recent residential gutter job."
+    },
+    {
+      "src": "./assets/viking/roofline-ladder.jpg",
+      "alt": "Ladder access and roofline setup at a residential gutter service job.",
+      "caption": "Real field setup at a home in the service area."
+    },
+    {
+      "src": "./assets/viking/overflow-issue.jpg",
+      "alt": "Overflowing gutter issue with water spilling near a guard and outlet area.",
+      "caption": "Problem-spot example showing the kind of overflow and drainage issue homeowners call about."
+    },
+    {
+      "src": "./assets/viking/muck-removal.jpg",
+      "alt": "Hand removing built-up wet debris from a clogged gutter.",
+      "caption": "Close-up of heavy buildup being cleared out of a clogged gutter."
+    },
+    {
+      "src": "./assets/viking/outlet-clear.jpg",
+      "alt": "Cleaned gutter outlet opening after debris removal.",
+      "caption": "Outlet cleanup detail showing water flow restored at the drain opening."
+    },
+    {
+      "src": "./assets/viking/corner-buildup.jpg",
+      "alt": "Debris packed into a roof corner and gutter intersection.",
+      "caption": "Corner buildup example where leaves and debris can pack in tightly."
+    },
+    {
+      "src": "./assets/viking/guard-line-clogged.jpg",
+      "alt": "Clogged guarded gutter line with leaves built up along the roof edge.",
+      "caption": "Guarded run showing how debris can still build up and need attention."
+    },
+    {
+      "src": "./assets/viking/clean-long-run.jpg",
+      "alt": "Long cleaned gutter run along a roof edge after debris removal.",
+      "caption": "Long-run after shot showing a cleared line and restored flow path."
+    },
+    {
+      "src": "./assets/viking/guard-closeup.jpg",
+      "alt": "Close-up of gutter guard service detail.",
+      "caption": "Close-up detail that helps show guard-related service work."
+    },
+    {
+      "src": "./assets/viking/fascia-repair-open.jpg",
+      "alt": "Open fascia and eave repair detail at a residential roof edge.",
+      "caption": "Repair-side image showing that the work can go beyond basic cleaning."
+    },
+    {
+      "src": "./assets/viking/copper-downspout-garage.jpg",
+      "alt": "Copper downspouts installed on a multi-bay garage facade.",
+      "caption": "Copper downspout example that broadens the portfolio beyond cleanouts."
+    },
+    {
+      "src": "./assets/viking/copper-downspout-stone.jpg",
+      "alt": "Copper downspout running along a stone exterior wall in winter conditions.",
+      "caption": "Another specialty install example with copper downspout work."
+    },
+    {
+      "src": "./assets/viking/corner-clog-before.jpg",
+      "alt": "Leaf buildup collected at a roof corner and gutter turn.",
+      "caption": "Another before-condition example from a roof corner that traps leaves."
+    },
+    {
+      "src": "./assets/viking/before-after.jpg",
+      "alt": "Before and after gutter cleaning comparison for Viking Gutter Cleaning.",
+      "caption": "Before-and-after proof from a gutter cleaning and repair job."
+    }
+  ],
+  "reviewsEyebrow": "Google reviews",
+  "reviewsHeading": "What Our Customers Are Saying",
+  "reviewsIntro": "See what local homeowners have to say about their experience with Viking Gutter Cleaning.",
+  "reviewsPlaceholderTitle": "Google reviews will appear here",
+  "reviewsPlaceholderBody": "Once reviews are live, this section can show the current star rating, review count, recent customer reviews, and a link to the full Google Business profile.",
+  "reviewsLinkText": "Read Our Google Reviews",
+  "faqEyebrow": "Common questions",
+  "faqHeading": "Answers to the questions homeowners ask before scheduling service.",
+  "faqs": [
+    {
+      "question": "Do you only clean gutters?",
+      "answer": "No. Despite the Viking Gutter Cleaning name, we provide full gutter services including cleaning, repairs, gutter guards, and complete gutter installation."
+    },
+    {
+      "question": "Can my existing gutters be repaired instead of replaced?",
+      "answer": "In many cases, yes. Problems such as leaks, loose sections, poor pitch, clogged outlets, or isolated damage may be repairable. We will evaluate the existing system and explain your options before recommending a complete replacement."
+    },
+    {
+      "question": "How often should gutters be cleaned?",
+      "answer": "It depends on the property, surrounding trees, roof design, and whether gutter guards are installed. Many homes benefit from cleaning at least once or twice per year, while heavily wooded properties may require more frequent service."
+    },
+    {
+      "question": "Do you install gutter guards?",
+      "answer": "Yes. Viking installs gutter protection systems and can evaluate your existing gutters to determine whether guards are appropriate and whether any cleaning or repairs should be completed first."
+    }
+  ],
+  "formKicker": "Request an estimate",
+  "formHeading": "Tell us what your gutters need.",
+  "formText": "Tell us a little about your home and what is going on with your gutters, and we will help determine the right next step.",
+  "formServicePrompt": "What do you need help with?",
+  "formServicePlaceholder": "Select a service",
+  "formServices": [
+    "Gutter Cleaning",
+    "Gutter Repair",
+    "Gutter Guards",
+    "New Gutter Installation",
+    "Downspout / Drainage Issue",
+    "Not Sure - Need an Evaluation"
+  ],
+  "formPropertyPrompt": "Property type",
+  "formPropertyPlaceholder": "Select property type",
+  "formProperties": [
+    "Single-Family Home",
+    "Multi-Family Home",
+    "Condo / HOA",
+    "Commercial Property",
+    "Other"
+  ],
+  "formTimingPrompt": "Timing",
+  "formTimingPlaceholder": "Select one",
+  "formTimings": [
+    "As Soon as Possible",
+    "Within 1-2 Weeks",
+    "Within the Next Month",
+    "Planning Ahead / Getting Pricing",
+    "Flexible"
+  ],
+  "formButtonText": "Send Request",
+  "formSuccessMessage": "Thanks for contacting Viking Gutter Cleaning. We've received your request and will be in touch soon to discuss your gutter service needs."
+}
