@@ -5,3 +5,24 @@
 @media(max-width:1050px){.service-hero{gap:35px;grid-template-columns:.75fr 1.25fr}.service-tile>span{font-size:21px}.service-first .header-phone{margin-left:auto}}
 @media(max-width:700px){.service-first .brand-banner{height:195px}.service-first .header{height:96px;align-items:center;justify-content:space-between}.service-first .logo{width:119px;height:69px}.brand-home{padding:2px 8px}.service-first .header-phone{display:none}.banner-caption{bottom:15px;font-size:13px}.banner-caption span{font-size:12px;margin-top:1px}.mobile-menu{display:block;position:relative}.mobile-menu>summary{width:44px;height:44px;list-style:none;display:flex;flex-direction:column;justify-content:center;gap:5px;align-items:center;cursor:pointer;background:#071e3099;border-radius:4px}.mobile-menu>summary::-webkit-details-marker{display:none}.mobile-menu>summary>span{width:23px;height:2px;background:white}.service-first .header .mobile-menu nav{position:absolute;z-index:20;top:52px;right:0;width:220px;background:#fff;color:#112b43;display:flex;flex-direction:column;gap:0;padding:8px;box-shadow:0 8px 28px #0005;border-radius:6px}.mobile-menu nav a{padding:12px;min-height:44px}.service-hero{display:block;padding-block:25px 0}.service-hero-intro>.eyebrow,.desktop-intro,.desktop-break{display:none}.service-hero h1{font-size:clamp(28px,7.6vw,40px);line-height:1.15;letter-spacing:-.035em;margin:0 0 20px}.service-tiles{gap:13px}.service-tile{aspect-ratio:1.22;border-radius:8px}.service-tile>span{font-size:21px;bottom:13px;left:12px;right:12px}.service-tile b{font-size:20px}.service-cta{margin-top:20px;min-height:52px;font-size:16px;border-radius:5px}.not-sure{margin-block:17px 7px;font-size:14px}.service-first #work{padding-block:29px 35px}.service-first #work .section-head{margin-bottom:18px}.service-first #work .section-head .eyebrow,.service-first #work .section-head>p{display:none}.service-first #work .section-head h2{font-size:25px}.service-first #work>.gallery{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:13px;padding-bottom:12px;scrollbar-width:thin;scrollbar-color:#728b9d #102b40}.service-first #work>.gallery>figure{flex:0 0 68%;scroll-snap-align:start}.service-first #work>.gallery img{height:195px}.service-first #work>.gallery figcaption{font-size:13px}.service-first .more-work{margin-top:16px}.service-first .more-work .gallery img{height:180px}.service-first .proof{margin-top:0}.service-first #services{padding-top:42px}.service-first .mobile-actions a{font-size:14px}.service-first .mobile-actions{box-shadow:0 -5px 25px #0004}.service-first .section-head h2{font-size:34px}}
 @media(prefers-reduced-motion:reduce){.service-tile img{transition:none}.service-tile:hover img{transform:none}}
+
+
+/* Expanded estimate form: scoped to the existing Viking form. */
+#quote-form .request-intro{font-size:15px;line-height:1.5;color:#526473;margin-bottom:24px}
+#quote-form .request-group{border:0;border-top:1px solid #dce2e7;margin:0 0 26px;padding:21px 0 0;min-width:0}
+#quote-form .request-group legend{font-size:18px;font-weight:700;color:#152f43;padding:0 8px 0 0;line-height:1.35}
+#quote-form .field-help{font-size:14px;line-height:1.5;color:#526473;margin:0 0 15px}
+#quote-form .service-checks{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:12px 0 18px}
+#quote-form .check-option{display:flex;align-items:center;gap:10px;padding:12px;border:1px solid #b9c5ce;border-radius:4px;margin:0;min-height:52px;cursor:pointer;font-size:14px;line-height:1.3}
+#quote-form .check-option:has(input:checked){background:#edf3f7;border-color:#b94320}
+#quote-form .check-option input{flex:0 0 20px;width:20px;height:20px;min-height:20px;margin:0;padding:0;accent-color:#b94320}
+#quote-form .required-label,#quote-form .optional-label{font-weight:400;color:#526473;font-size:13px}
+#quote-form .selection-note{margin:0;font-size:14px;line-height:1.5}
+#quote-form .request-details summary{font-size:17px;line-height:1.4;padding:5px 0}
+#quote-form .request-details[open] summary{margin-bottom:18px}
+#quote-form input[type=file]{font-size:14px;min-height:48px;padding:10px;max-width:100%}
+#quote-form input[type=file]::file-selector-button{font:inherit;margin-right:10px;border:1px solid #a8b5c0;background:#edf3f7;color:#152f43;border-radius:3px;padding:8px;cursor:pointer}
+#quote-form #photo-status:empty{display:none}
+#quote-form #form-status{line-height:1.5}
+#quote-form[aria-busy=true]{cursor:progress}
+@media(max-width:700px){#quote-form{padding:24px 18px}#quote-form .service-checks{grid-template-columns:1fr}#quote-form .request-group{margin-bottom:24px}#quote-form .request-group legend{font-size:17px}#quote-form .form-grid{grid-template-columns:1fr;gap:0}}
