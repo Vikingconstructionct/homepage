@@ -26,3 +26,8 @@
 #quote-form #form-status{line-height:1.5}
 #quote-form[aria-busy=true]{cursor:progress}
 @media(max-width:700px){#quote-form{padding:24px 18px}#quote-form .service-checks{grid-template-columns:1fr}#quote-form .request-group{margin-bottom:24px}#quote-form .request-group legend{font-size:17px}#quote-form .form-grid{grid-template-columns:1fr;gap:0}}
+
+/* Featured property photo: keep the roofline in view. */
+.service-first .brand-banner{height:clamp(310px,32vw,430px)}
+.service-first .banner-photo{object-position:center 14%}
+@media(max-width:700px){.service-first .brand-banner{height:240px}.service-first .banner-photo{object-position:center 15%}}
